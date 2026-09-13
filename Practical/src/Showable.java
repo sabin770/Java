@@ -1,3 +1,0 @@
-interface Showable {
-    void show();
-}
